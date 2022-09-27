@@ -1,0 +1,40 @@
+.container {
+	margin: auto;
+	margin-top: 20px;
+	border: 3px solid #9eb5e0;
+	background-color: #eef1ff;
+}
+.col-md-,
+.col-lg-4 {
+	margin-bottom: 20px;
+}
+.sty {
+	font-size: 18px !important;
+	color: rgb(11, 5, 98) !important;
+}
+.num {
+	width: 80px;
+	height: 30px;
+	border: 3px solid rgb(0, 0, 0);
+	border-radius: 5px;
+	font-size: 18px;
+	padding: 5px;
+}
+.uk-border-circle {
+	width: 100px !important;
+	height: 100px !important;
+}
+.fa-cart-arrow-down {
+	color: white;
+	font-size: 50px;
+	cursor: pointer;
+	padding-left: 20px;
+}
+
+h1 {
+	display: flex;
+	align-self: center;
+	text-align: center;
+	padding-left: 42%;
+	text-decoration: underline;
+}
